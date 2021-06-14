@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background: rgb(17, 13, 13);
+    background: rgb(255, 255, 255);
 }
 
 
@@ -75,7 +75,7 @@ body{
 .slotname{
   font-family: 'Overpass', sans-serif;
   font-size: 1.8vw;
-   color: white;
+   color: black;
    margin-top: 5px;
    height: 10%;
  
@@ -121,7 +121,7 @@ text-shadow: 0 0 5px rgb(240, 68, 68), 0 0 10px rgb(228, 47, 47), 0 0 15px #e024
 
 }
 .booked h2::after{
-content: "Booked"
+content: "Full"
 }
 
 
