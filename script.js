@@ -29,6 +29,6 @@ setTimeout(function(){
     $('.menu footer button').click();
     setTimeout(function(){
     }, (count * 100) + 500 );
-}, 3000);
+}, 5000);
 
 
